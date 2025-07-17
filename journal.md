@@ -72,6 +72,10 @@ but now for the "fun" of how we ended up here!
 i decided to add keycaps because i wanted to see what the thing looked like all together
 <img width="2021" height="874" alt="image" src="https://github.com/user-attachments/assets/a8840b85-efe4-4fba-aa7a-9bcc8378b14e" />
 
+now its the point where it gets hard
+because i really didnt want a massive bordere arround my part
+but i knew i needed screw to hold it together
+and i really didnt want to go back to the PCB to add the holes so i had to get a lil creative designing
 
 
 cross section of the solution i eneded up with for mounting the pcb
@@ -86,7 +90,8 @@ cross section of the solution i eneded up with for mounting the pcb
 
 ah yeah the last thing to mention
 the omission of any firmware
-i plan to use POG and kmk to create a firmware
+i plan to use POG and kmk to create a firmware however that requires the physical board
+Which is why the firmware is ommitted
 
 
 
