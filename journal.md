@@ -56,6 +56,22 @@ it turns a keyboard with a ton of keys has a ton of traces
 (add imgs here)
 
 
+# day 10 - 14 the CAD  time: 6hours or so
+the CAD was a bit of a struggle trying to get a way to mount the pcb while trying to minimise both the height of the keys, and any brims arround the edge of the board
+
+
+
+so here is a final render of the full keyboard
+<img width="2001" height="919" alt="image" src="https://github.com/user-attachments/assets/ad7a8f1a-55eb-4a1b-b892-76816776d135" />
+
+
+
+
+ah yeah the last thing to mention
+the omission of any firmware
+i plan to use POG and kmk to create a firmware
+
+
 
 
 
