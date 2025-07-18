@@ -72,10 +72,50 @@ but now for the "fun" of how we ended up here!
 i decided to add keycaps because i wanted to see what the thing looked like all together
 <img width="2021" height="874" alt="image" src="https://github.com/user-attachments/assets/a8840b85-efe4-4fba-aa7a-9bcc8378b14e" />
 
+next part was the plate because i knew i was going for plate mount and then sandwich that (i hope im using the right terms lol)
+<img width="1748" height="666" alt="image" src="https://github.com/user-attachments/assets/0a7a6658-19da-422d-8fbc-6cb1f632eb04" />
+
+then it was a case of fighting through the cad to try and balance the keyboard case border
+and how easy it would be to get in the screws to hold it all together and make sure i can 3d print it in smaller parts 
+
+<img width="1517" height="703" alt="image" src="https://github.com/user-attachments/assets/93cf676d-dc68-40cc-8fa2-e3317ff26fac" />
+in splitting up the case i decided to stagger everything to try and hope to hold it together well
+
+<img width="1995" height="376" alt="image" src="https://github.com/user-attachments/assets/8d4f4954-661a-4854-9c04-5de965aca436" />
+<img width="1933" height="1041" alt="image" src="https://github.com/user-attachments/assets/d1289d3d-ac05-472c-a841-af783c3f7072" />
+
+then it was time for the really big challenge i predicted earlier
+trying to get the screws  to go where i wanted them to !
+<img width="952" height="793" alt="image" src="https://github.com/user-attachments/assets/8727468d-c431-44c3-9efc-10a8c7e5ebd5" />
+
+
+
+
+
 now its the point where it gets hard
 because i really didnt want a massive bordere arround my part
 but i knew i needed screw to hold it together
 and i really didnt want to go back to the PCB to add the holes so i had to get a lil creative designing
+
+
+<img width="512" height="739" alt="image" src="https://github.com/user-attachments/assets/30bedc20-5fcd-4543-a32c-91e8f1f346a2" />
+this solution left 0.2mm of plastic to hide the screw
+<img width="746" height="604" alt="image" src="https://github.com/user-attachments/assets/6d4ed9bd-3ce1-40f6-9611-e7b385169ed1" />
+fusion didnt feel as nice on the other side soo i ended up without timeline turned on because fusion wasnt happy
+:pf: 
+but i got a solution
+
+
+<img width="1368" height="449" alt="image" src="https://github.com/user-attachments/assets/f5ab35eb-65d0-48fd-ac7b-595966dbd9c3" />
+oh yeah the pcb should mount slide into that groove
+with the case sliding on from each side
+
+<img width="1585" height="613" alt="image" src="https://github.com/user-attachments/assets/63490f25-7233-40d2-b343-357b58e92de5" />
+this is it from the bottom
+i just wanted to leave the buttom open because im curious how it will affect the sound of the keyboard
+
+
+
 
 
 cross section of the solution i eneded up with for mounting the pcb
