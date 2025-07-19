@@ -124,17 +124,22 @@ i just wanted to leave the buttom open because im curious how it will affect the
 cross section of the solution i eneded up with for mounting the pcb
 <img width="2001" height="919" alt="image" src="https://github.com/user-attachments/assets/ad7a8f1a-55eb-4a1b-b892-76816776d135" />
 
+# 19/07/2025 firmware 5hours
+i was told i should at least get some firmware done
+this wasnt that fun
+
+i was trying to follow the kmk docs at first but just kept getting lost and struggling to read them
+
+then i tried to use POG to create some firmware however its pretty hard to follow some of the steps on there without the physical keyboard infront of you so i had to resort to manually filling in the coordmap which took a while
+
+it was really just me not having experience an not knowing what i was doing, and going down pathways that werent going to work
+
+in the end it should work and was satisfying ish
 
 
 
 
 
-
-
-ah yeah the last thing to mention
-the omission of any firmware
-i plan to use POG and kmk to create a firmware however that requires the physical board
-Which is why the firmware is ommitted
 
 
 
