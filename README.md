@@ -19,13 +19,15 @@ however i do miss having a full size num pad and FN keys so i wanted to create a
 
 # BOM
 
-|part    |cost |notes               |link                                                 |
-|--------|-----|--------------------|-----------------------------------------------------|
-|keycaps |17.41|                    |https://www.aliexpress.com/item/1005005981079053.html|
-|PCB     |35.17|JLC!                |                                                     |
-|Switches|34.19|clicky clicky!      |https://www.aliexpress.com/item/1005007779640100.html|
-|Diodes  |3.1  |need 2 lots of 1.55 |https://www.aliexpress.com/item/1005006127068810.html|
-|PI pico |2.17 |pico with usb type c|https://www.aliexpress.com/item/1005003753933847.html|
-|PLA     |0    |using my own        |                                                     |
+|part       |Qantity needed|cost |notes               |link                                                 |
+|-----------|--------------|-----|--------------------|-----------------------------------------------------|
+|keycaps    |1             |17.41|                    |https://www.aliexpress.com/item/1005005981079053.html|
+|PCB        |1             |35.17|JLC!                |                                                     |
+|Switches   |105           |34.19|clicky clicky!      |https://www.aliexpress.com/item/1005007779640100.html|
+|Diodes     |105           |3.1  |need 2 lots of 1.55 |https://www.aliexpress.com/item/1005006127068810.html|
+|PI pico    |1             |2.17 |pico with usb type c|https://www.aliexpress.com/item/1005003753933847.html|
+|M3x12  SHCS|13            |3.46 |                    |https://www.aliexpress.com/item/32794842281.html     |
+|PLA        |              |0    |using my own        |                                                     |
+|Sum        |              |92.04|                    |                                                     |
 
 total cost $92.04 
