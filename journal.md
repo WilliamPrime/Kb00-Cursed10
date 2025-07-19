@@ -9,7 +9,8 @@ Note: despite me putting created as the current date, i have been working on thi
 
 so i started working on this RIGHT at the start of infil
 
-# total time : 
+# total time : 20.5 hours (this is a consvative approximation)
+this also doesnt include it the time spent trying to mess arroudn with learning git 
 (ive also not done it by date, but by day, and removing the gaps...)
 
 
