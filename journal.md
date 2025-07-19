@@ -27,6 +27,9 @@ here are some of the layouts that i started thinking about
 
 but ultimately i decided on this layout because i liked the no gaps look and given that im trying to make my keyboard as compact as possible while not loosing keys, this seems like a reallyyy cursed but acceptable solution for that problem.
 
+<img width="1382" height="446" alt="image" src="https://github.com/user-attachments/assets/a9cd4f0a-408e-449e-87e2-dadef758d4e6" />
+
+ 
 # day 4 making a schematic on kicad    time: 1h 25min
 <img width="1410" height="1134" alt="image" src="https://github.com/user-attachments/assets/90fd78d3-a27a-4ee1-917e-964f6a5579f8" />
 this was a little tricky trying to make sure i double and tripple checked that i had all the switches i needed
