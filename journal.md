@@ -137,6 +137,13 @@ it was really just me not having experience an not knowing what i was doing, and
 
 in the end it should work and was satisfying ish
 
+# 20/07/2025 BUYING PARTS
+
+woooo this took probably 45min
+just trying to enter the different addresses etc
+BUT ITS ALL ORDERED
+IM EXCITED
+tysm so much Alex for getting me the HCB card quickly so i could utilise the aliexpress sale ✨
 
 
 
