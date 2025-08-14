@@ -146,7 +146,48 @@ IM EXCITED
 tysm so much Alex for getting me the HCB card quickly so i could utilise the aliexpress sale ✨
 
 
+# 29/07/2025   the build process yipeeee     6 hours
 
+
+started off by populating the plate
+![_DSC0238](https://github.com/user-attachments/assets/1c6c386b-8a29-4469-8959-ba8082d15f5a)
+![_DSC0237-2](https://github.com/user-attachments/assets/e27405ab-6e0a-4629-9931-aebc74133cdd)
+then trying to push all the pins to align with the PCB
+this did take a few attempts as sometimes there were bent pins
+
+however i found a good stratergy for avoiding this,
+just take aout the singular switch with the bent pins,
+use pliars to fix the bent pin
+then put it back into the plate
+
+taking the whole plate of switches out when 1 is bent is not a good idea  
+oops
+
+definetly didnt forget to add stabilisers the first time i did it 
+oops
+this the first time i had an issue with stabilsers (foreshadoweing intensifies)
+
+https://youtu.be/y29UAdKmAMU?si=JdBHaC-ciiN0UJ09
+probably a good time to throw in that youtube link aswell
+a full video of me making the keyboard
+well not fullll, there was a part at the start where i forgot to start the camera recording, but ooopsie
+
+i later had issues with my stabilisers
+which turned out to in one case be that the plate was putting pressure on the stabs which then causes tons of friction and the keys to stick
+the other time was when i hadnt soldered the switches straight so once again there was friction
+
+the build wasnt too painful
+it was just the stabilisers that seemed to dislike me
+
+
+
+# 31/07/2025 Software 7h
+the flashing of the keyboard with firmware at first went great
+tested the top row, perfect
+
+tested the second row from the top, worked great, until i hit the enter key
+i turned out i just made some errors in my kmk config
+3 or 4 hours remapping the keyboard fixed this!!!
 
 
 
