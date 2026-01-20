@@ -26,8 +26,7 @@ however i do miss having a full size num pad and FN keys so i wanted to create a
 |Switches|34.19 |clicky clicky!      |https://www.aliexpress.com/item/1005007779640100.html|
 |Diodes  |3.1   |need 2 lots of 1.55 |https://www.aliexpress.com/item/1005006127068810.html|
 |PI pico |2.17  |pico with usb type c|https://www.aliexpress.com/item/1005003753933847.html|
-|Solder  |9.18  |need more solder    |https://www.aliexpress.com/item/1005005240403581.html|
 |PLA     |0     |using my own        |                                                     |
 |Sum     |111.61|                    |                                                     |
 
-total cost $111.61 
+total cost $102.43
